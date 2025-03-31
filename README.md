@@ -65,5 +65,5 @@ We welcome contributions! Feel free to open issues and submit pull requests.
 This project is licensed under the **MIT License**.
 
 ## 📬 Contact
-For any inquiries or feedback, reach out via [thearkabanerjee@example.com] or visit [Fluxofolio](https://fluxofolio.vercel.app/).
+For any inquiries or feedback, reach out via [thearkabanerjee@gmail.com] or visit [Fluxofolio](https://fluxofolio.vercel.app/).
 
